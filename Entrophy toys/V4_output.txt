@@ -1,0 +1,42 @@
+========== COMPREHENSIVE CRYPTO & GROUP SYNDROME ==========
+          COMPREHENSIVE CRYPTO & GROUP SYNDROME CORE
+==========================================================
+
+--- V5 Crypto Manifold Streaming [Encryption] ---
+Plain: 'H' -> Move: L -> Ciphertext: 0x94
+Plain: 'E' -> Move: B -> Ciphertext: 0xde
+Plain: 'L' -> Move: F -> Ciphertext: 0x16
+Plain: 'L' -> Move: L -> Ciphertext: 0xbf
+Plain: 'O' -> Move: B -> Ciphertext: 0xdb
+
+--- Baseline Evaluation (Clean Scrambled Manifold) ---
+
+--- Syndrome Matrix Report (Clean) ---
+Theorem 1 (Global Weights) : VERIFIED
+Theorem 2 (Unique Decodability): VERIFIED
+Theorem 3 (Middle Checkpoint) : VERIFIED (State: 15)
+Theorem 4 (Pattern Database Space): INITIALIZED [O(1) Slot Online]
+Theorem 5 (Gap Detection Efficiency): OPTIMIZED (13.7x Efficiency Target)
+Mock Hash (Face Product %256): 0x94
+
+----------------------------------------------------------
+ INJECTING BURST TRANSMISSION CHANNEL NOISE...
+
+--- Secondary Evaluation (Post-Fault Interception) ---
+
+--- Syndrome Matrix Report (Post-Fault) ---
+Theorem 1 (Global Weights) : FAILED
+Theorem 2 (Unique Decodability): VERIFIED
+Theorem 3 (Middle Checkpoint) : VERIFIED (State: 15)
+Theorem 4 (Pattern Database Space): INITIALIZED [O(1) Slot Online]
+Theorem 5 (Gap Detection Efficiency): OPTIMIZED (13.7x Efficiency Target)
+Mock Hash (Face Product %256): 0x2
+
+--- V6 SHANNON PROOF: MANIFOLD ENTROPY BOUNDS ---
+Move  0 | Remaining Entropy: 65.23 bits | Extracted Redundancy: 0.00 bits
+Move  5 | Remaining Entropy: 47.67 bits | Extracted Redundancy: 17.56 bits
+Move 10 | Remaining Entropy: 30.10 bits | Extracted Redundancy: 35.13 bits
+Move 15 | Remaining Entropy: 15.05 bits | Extracted Redundancy: 50.18 bits
+Move 20 | Remaining Entropy: 0.00 bits | Extracted Redundancy: 65.23 bits
+
+==========================================================
