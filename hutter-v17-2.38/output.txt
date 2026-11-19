@@ -1,0 +1,17 @@
+=========================================================
+ STEP 6: MORPHOLOGICAL ROOT + CONSTRAINT-PRUNED CUBE ENGINE
+=========================================================
+ Source File     : enwik_sample.txt (389535 bytes)
+ Preprocessed    : 235328 bytes (60.4% of raw size)
+
+ Compression Results (Step 6: Morphological + Constraint Upgrade)
+    Original size    : 389535 bytes
+    Compressed size  : 116138 bytes (Step 5: 115956 bytes)
+    Actual coder     : 2.3852 bits/byte (Step 5: 2.3814 bpb)
+    Hutter Record    : 0.8034 bits/byte (enwik9, 1 GB)
+    Gap to Record    : 1.5818 bits/byte
+    Encode time      : 2194.00 ms
+
+ Lossless Verification
+    STATUS: PASS (100% byte-for-byte identical!)
+=========================================================
