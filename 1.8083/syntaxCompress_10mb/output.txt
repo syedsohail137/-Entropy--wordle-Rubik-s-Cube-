@@ -1,0 +1,19 @@
+=== V9+: 16-EXPERT BIT-LEVEL MIXER + MORPH STEM + WRD_STR CACHE + 3x APM ===
+Source          : enwik9_10mb.txt (Total: 10485760 B)
+Mode            : 100% Pure Cold-Start Online (Hierarchical Inheritance)
+Compressed bytes: 2370206 (incl. 8B header)
+Model bpb       : 1.8083
+Actual bpb      : 1.8083
+V8 (2.1638) gain: -0.3555 bpb
+Elapsed time    : 1316.33 s (7.8 KB/s)
+Lossless Verify : PASS (100% EXACT MATCH)
+
+--- Individual Bit-Level Expert Standalone bpb (with Inheritance) ---
+O0=4.795 O1=3.679 O2=2.954 O3=2.542 O4=2.427 O6=2.630 O9=2.817 SP13=3.140 
+IND=3.276 WRD1=3.680 WRD2=3.885 SHP=3.374 FSM=3.650 STEM=3.340 PHON=3.888 MTCH=4.080 
+
+--- Per-Bucket Telemetry Breakdown ---
+XML_TAG  ( 238973 B) | Mix=0.110 bpb
+WIKI_MK  (5639859 B) | Mix=1.856 bpb
+WRD_STR  (1306530 B) | Mix=2.957 bpb
+MID_WRD  (3300398 B) | Mix=1.394 bpb
